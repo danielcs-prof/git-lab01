@@ -9,3 +9,4 @@ sudo apt-get install git
 
 ```
 $\sqrt{x}$
+$\frac{a}{b}$
