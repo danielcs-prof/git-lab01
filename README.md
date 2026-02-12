@@ -8,5 +8,3 @@ Execute o comando abaixo para instalar o git:
 sudo apt-get install git
 
 ```
-$\sqrt{x}$
-$\frac{a}{b}$
